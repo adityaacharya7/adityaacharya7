@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adityaacharya.m777@gmail.com**
 
-- ⚡ Fun fact **I am expert in Smartphone Technology :D **
+- ⚡ Fun fact I am expert in Smartphone Technology :D 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
