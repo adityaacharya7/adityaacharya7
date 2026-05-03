@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a Computer Science student passionate about coding and technology.<br>🔭 Currently working on Java projects.<br>🌱 Currently learning Python and Java in-depth.<br>💬 Ask me about programming, gaming, or tech in general.<br>📫 Reach me at: adityaacharya.m777@gmail.com<br>⚡ Fun fact: I'm an expert in Smartphone Technology 😄
+🎓 I’m a Computer Science student passionate about coding and technology.<br>🔭 Currently working on Machine Learning and LLMs.<br>🌱 Currently learning Artificial Intelligence and Data Science.<br>💬 Ask me about programming, gaming, or tech in general.<br>📫 Reach me at: adityaacharya.m777@gmail.com<br>⚡ Fun fact: I'm an expert in Smartphone Technology 😄
 
 
 ## 🌐 Socials:
